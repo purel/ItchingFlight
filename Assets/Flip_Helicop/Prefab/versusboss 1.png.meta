@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 63ac0d428f6bd8443ab48e431c15e916
+timeCreated: 1476995619
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: versusboss 1_0
+    21300002: versusboss 1_1
+    21300004: versusboss 1_2
+    21300006: versusboss 1_3
+    21300008: versusboss 1_4
+    21300010: versusboss 1_5
+    21300012: versusboss 1_6
+    21300014: versusboss 1_7
+    21300016: versusboss 1_8
+    21300018: versusboss 1_9
+    21300020: versusboss 1_10
+    21300022: versusboss 1_11
+    21300024: versusboss 1_12
+    21300026: versusboss 1_13
+    21300028: versusboss 1_14
+    21300030: versusboss 1_15
+    21300032: versusboss 1_16
+    21300034: versusboss 1_17
+    21300036: versusboss 1_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: versusboss 1_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 299
+        width: 135
+        height: 90
+      alignment: 9
+      pivot: {x: 0.57832205, y: 0.43286675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: versusboss 1_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 296
+        width: 152
+        height: 91
+      alignment: 9
+      pivot: {x: 0.52981246, y: 0.4585028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: versusboss 1_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 275
+        width: 164
+        height: 114
+      alignment: 9
+      pivot: {x: 0.43552753, y: 0.5463749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: versusboss 1_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 276
+        width: 111
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4387636, y: 0.54720306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: versusboss 1_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 124
+        width: 71
+        height: 118
+      alignment: 9
+      pivot: {x: 0.64892226, y: 0.5832053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: versusboss 1_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 120
+        width: 165
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5732363, y: 0.5106374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: versusboss 1_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 148
+        width: 150
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50858253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: versusboss 1_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 148
+        width: 142
+        height: 101
+      alignment: 9
+      pivot: {x: 0.49468136, y: 0.44017845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: versusboss 1_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4
+        width: 140
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49460536, y: 0.42875028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: versusboss 1_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 140
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5161839, y: 0.4580419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: versusboss 1_16
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 5
+        width: 141
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5321382, y: 0.42667505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: versusboss 1_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5531039, y: 0.38199276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,85 @@
+fileFormatVersion: 2
+guid: 9835768566604004eaecb3978cacda9e
+timeCreated: 1461958574
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: missile_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: missile_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 22
+        width: 264
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132, y: -33}
+        - {x: 132, y: 16}
+        - {x: 113, y: 47}
+        - {x: 75, y: 77}
+        - {x: 48, y: 86}
+        - {x: 24, y: 90}
+        - {x: -100, y: 90}
+        - {x: -109, y: 88}
+        - {x: -130, y: 55}
+        - {x: -132, y: 36}
+        - {x: -132, y: -65}
+        - {x: -117, y: -90}
+        - {x: 48, y: -90}
+        - {x: 65, y: -86}
+        - {x: 81, y: -82}
+        - {x: 128, y: -51}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

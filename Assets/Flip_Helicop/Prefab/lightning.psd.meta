@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 2f18cb4128baf6946842f3beec7c101e
+timeCreated: 1463502910
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lightning_0
+    21300002: lightning_1
+    21300004: lightning_2
+    21300006: lightning_3
+    21300008: lightning_4
+    21300010: lightning_5
+    21300012: lightning_6
+    21300014: lightning_7
+    21300016: lightning_8
+    21300018: lightning_9
+    21300020: lightning_10
+    21300022: lightning_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lightning_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 103
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 256}
+        - {x: -51.5, y: 221}
+        - {x: -35.5, y: 203}
+        - {x: -41.5, y: 209}
+        - {x: -45.5, y: 210}
+        - {x: -47.5, y: 207}
+        - {x: -46.5, y: 201}
+        - {x: -45.5, y: 197}
+        - {x: -51.5, y: 177}
+        - {x: -51.5, y: 161}
+        - {x: -34.5, y: 150}
+        - {x: -51.5, y: 95}
+        - {x: -51.5, y: -244}
+        - {x: -46.5, y: -256}
+        - {x: 51.5, y: -256}
+        - {x: 51.5, y: 230}
+        - {x: 8.5, y: 256}
+      - - {x: 28.5, y: -177}
+        - {x: 30.5, y: -179}
+        - {x: 33.5, y: -178}
+        - {x: 34.5, y: -172}
+        - {x: 32.5, y: -170}
+        - {x: 29.5, y: -171}
+      - - {x: 38.5, y: -161}
+        - {x: 41.5, y: -160}
+        - {x: 41.5, y: -157}
+        - {x: 38.5, y: -156}
+        - {x: 36.5, y: -158}
+    - name: lightning_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 84
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -68}
+        - {x: 16, y: -38}
+        - {x: 14, y: -36}
+        - {x: 10, y: -36}
+        - {x: 25, y: -14}
+        - {x: 30, y: -7}
+        - {x: 26, y: 2}
+        - {x: 21, y: 1}
+        - {x: 16, y: -3}
+        - {x: 22, y: 4}
+        - {x: 38, y: -3}
+        - {x: 42, y: 7}
+        - {x: 42, y: 256}
+        - {x: -34, y: 256}
+        - {x: -42, y: 252}
+        - {x: -42, y: -227}
+        - {x: -23, y: -256}
+        - {x: 41, y: -256}
+        - {x: 42, y: -217}
+        - {x: 42, y: -75}
+        - {x: 35, y: -69}
+      - - {x: 25, y: -123}
+        - {x: 27, y: -125}
+        - {x: 29, y: -125}
+        - {x: 31, y: -123}
+        - {x: 28, y: -118}
+        - {x: 25, y: -119}
+      - - {x: -42, y: -98}
+        - {x: -42, y: -106}
+        - {x: -40, y: -106}
+        - {x: -38, y: -104}
+        - {x: -39, y: -100}
+        - {x: -41, y: -98}
+      - - {x: -40, y: -71}
+        - {x: -42, y: -72}
+        - {x: -42, y: -81}
+        - {x: -37, y: -81}
+        - {x: -35, y: -79}
+        - {x: -35, y: -74}
+        - {x: -37, y: -71}
+    - name: lightning_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 97
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 256}
+        - {x: -45.5, y: 243}
+        - {x: -48.5, y: 236}
+        - {x: -48.5, y: -256}
+        - {x: 34.5, y: -256}
+        - {x: 48.5, y: -190}
+        - {x: 48.5, y: 256}
+      - - {x: 10.5, y: -256}
+        - {x: 35.5, y: -256}
+        - {x: 34.5, y: -253}
+        - {x: 26.5, y: -252}
+        - {x: 14.5, y: -252}
+        - {x: 10.5, y: -254}
+      - - {x: 39.5, y: -45}
+        - {x: 41.5, y: -47}
+        - {x: 44.5, y: -46}
+        - {x: 44.5, y: -43}
+        - {x: 42.5, y: -41}
+        - {x: 39.5, y: -42}
+      - - {x: -37.5, y: -17}
+        - {x: -39.5, y: -19}
+        - {x: -38.5, y: -26}
+        - {x: -34.5, y: -29}
+        - {x: -29.5, y: -29}
+        - {x: -28.5, y: -28}
+        - {x: -28.5, y: -24}
+        - {x: -32.5, y: -17}
+    - name: lightning_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 99
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 256}
+        - {x: -49.5, y: 224}
+        - {x: -49.5, y: -245}
+        - {x: -39.5, y: -256}
+        - {x: 26.5, y: -256}
+        - {x: 49.5, y: -189}
+        - {x: 49.5, y: 188}
+        - {x: 35.5, y: 256}
+    - name: lightning_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 103
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -6}
+        - {x: 4.5, y: -4}
+        - {x: 5.5, y: -3}
+        - {x: 11.5, y: -1}
+        - {x: 51.5, y: -11}
+        - {x: 51.5, y: 256}
+        - {x: -41.5, y: 256}
+        - {x: -51.5, y: 247}
+        - {x: -51.5, y: -253}
+        - {x: -39.5, y: -256}
+        - {x: 29.5, y: -256}
+        - {x: 51.5, y: -222}
+        - {x: 51.5, y: -181}
+        - {x: 28.5, y: -46}
+      - - {x: 28.5, y: 79}
+        - {x: 30.5, y: 77}
+        - {x: 33.5, y: 78}
+        - {x: 34.5, y: 84}
+        - {x: 32.5, y: 86}
+        - {x: 29.5, y: 85}
+      - - {x: 38.5, y: 95}
+        - {x: 41.5, y: 96}
+        - {x: 41.5, y: 99}
+        - {x: 38.5, y: 100}
+        - {x: 36.5, y: 98}
+    - name: lightning_6
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 84
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 256}
+        - {x: 19, y: 256}
+        - {x: 16, y: 253}
+        - {x: 17, y: 255}
+        - {x: 17, y: 256}
+        - {x: -41, y: 256}
+        - {x: -42, y: 249}
+        - {x: -42, y: -256}
+        - {x: 42, y: -256}
+        - {x: 42, y: 205}
+        - {x: 30, y: 249}
+      - - {x: 25, y: 133}
+        - {x: 27, y: 131}
+        - {x: 29, y: 131}
+        - {x: 31, y: 133}
+        - {x: 28, y: 138}
+        - {x: 25, y: 137}
+      - - {x: -42, y: 158}
+        - {x: -42, y: 150}
+        - {x: -40, y: 150}
+        - {x: -38, y: 152}
+        - {x: -39, y: 156}
+        - {x: -41, y: 158}
+      - - {x: -41, y: 185}
+        - {x: -42, y: 183}
+        - {x: -42, y: 175}
+        - {x: -35, y: 175}
+        - {x: -35, y: 183}
+        - {x: -36, y: 185}
+    - name: lightning_7
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 0
+        width: 97
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 256}
+        - {x: -48.5, y: -231}
+        - {x: -40.5, y: -243}
+        - {x: -18.5, y: -256}
+        - {x: 48.5, y: -256}
+        - {x: 48.5, y: 256}
+      - - {x: 39.5, y: 211}
+        - {x: 41.5, y: 209}
+        - {x: 44.5, y: 210}
+        - {x: 44.5, y: 213}
+        - {x: 42.5, y: 215}
+        - {x: 39.5, y: 214}
+      - - {x: -39.5, y: 239}
+        - {x: -39.5, y: 234}
+        - {x: -35.5, y: 227}
+        - {x: -29.5, y: 227}
+        - {x: -28.5, y: 230}
+        - {x: -28.5, y: 239}
+    - name: lightning_8
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 99
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.5, y: 27}
+        - {x: 49.5, y: 251}
+        - {x: 44.5, y: 256}
+        - {x: -34.5, y: 256}
+        - {x: -49.5, y: 253}
+        - {x: -49.5, y: -224}
+        - {x: -29.5, y: -256}
+        - {x: 11.5, y: -256}
+        - {x: 49.5, y: -187}
+        - {x: 49.5, y: -80}
+        - {x: 30.5, y: -47}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

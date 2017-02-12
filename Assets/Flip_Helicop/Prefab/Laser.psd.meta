@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 5c5a34e150fc0e649994112e677eb767
+timeCreated: 1463291944
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Laser_0
+    21300002: Laser_1
+    21300004: Laser_2
+    21300006: Laser_3
+    21300008: Laser_4
+    21300010: Laser_5
+    21300012: Laser_6
+    21300014: Laser_7
+    21300016: Laser_8
+    21300018: Laser_9
+    21300020: Laser_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Laser_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 512
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 256, y: 53.5}
+        - {x: 254, y: 53.5}
+        - {x: 245, y: 51.5}
+        - {x: 249, y: 62.5}
+        - {x: 246, y: 63.5}
+        - {x: -225, y: 63.5}
+        - {x: -233, y: 59.5}
+        - {x: -235, y: 52.5}
+        - {x: -241, y: 51.5}
+        - {x: -244, y: 50.5}
+        - {x: -243, y: 43.5}
+        - {x: -256, y: 35.5}
+        - {x: -256, y: -49.5}
+        - {x: -253, y: -51.5}
+        - {x: -251, y: -59.5}
+        - {x: -240, y: -56.5}
+        - {x: -238, y: -61.5}
+        - {x: -237, y: -63.5}
+        - {x: 245, y: -63.5}
+        - {x: 247, y: -62.5}
+        - {x: 253, y: -56.5}
+        - {x: 256, y: -51.5}
+    - name: Laser_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 512
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 254, y: 63.5}
+        - {x: -229, y: 63.5}
+        - {x: -228, y: 61.5}
+        - {x: -230, y: 56.5}
+        - {x: -233, y: 57.5}
+        - {x: -235, y: 55.5}
+        - {x: -238, y: 51.5}
+        - {x: -241, y: 46.5}
+        - {x: -244, y: 39.5}
+        - {x: -248, y: 34.5}
+        - {x: -252, y: 34.5}
+        - {x: -255, y: 29.5}
+        - {x: -256, y: 29.5}
+        - {x: -256, y: -34.5}
+        - {x: -255, y: -35.5}
+        - {x: -255, y: -40.5}
+        - {x: -253, y: -43.5}
+        - {x: -251, y: -47.5}
+        - {x: -247, y: -51.5}
+        - {x: -248, y: -57.5}
+        - {x: -248, y: -60.5}
+        - {x: -246, y: -62.5}
+        - {x: -242, y: -63.5}
+        - {x: 256, y: -63.5}
+        - {x: 256, y: 57.5}
+        - {x: 254, y: 57.5}
+    - name: Laser_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 244, y: -58.5}
+        - {x: 247, y: -58.5}
+        - {x: 253, y: -52.5}
+        - {x: 256, y: -48.5}
+        - {x: 256, y: 49.5}
+        - {x: 254, y: 50.5}
+        - {x: 255, y: 60.5}
+        - {x: 254, y: 63.5}
+        - {x: -225, y: 63.5}
+        - {x: -224, y: 58.5}
+        - {x: -230, y: 59.5}
+        - {x: -232, y: 59.5}
+        - {x: -235, y: 56.5}
+        - {x: -240, y: 47.5}
+        - {x: -244, y: 47.5}
+        - {x: -250, y: 44.5}
+        - {x: -252, y: 42.5}
+        - {x: -251, y: 34.5}
+        - {x: -253, y: 31.5}
+        - {x: -256, y: 26.5}
+        - {x: -256, y: -63.5}
+        - {x: 242, y: -63.5}
+    - name: Laser_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 512
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -227, y: 63.5}
+        - {x: -231, y: 61.5}
+        - {x: -234, y: 57.5}
+        - {x: -237, y: 54.5}
+        - {x: -242, y: 48.5}
+        - {x: -248, y: 42.5}
+        - {x: -252, y: 40.5}
+        - {x: -256, y: 37.5}
+        - {x: -256, y: -53.5}
+        - {x: -254, y: -52.5}
+        - {x: -251, y: -56.5}
+        - {x: -249, y: -56.5}
+        - {x: -243, y: -53.5}
+        - {x: -243, y: -61.5}
+        - {x: -240, y: -62.5}
+        - {x: -236, y: -61.5}
+        - {x: -231, y: -59.5}
+        - {x: -231, y: -63.5}
+        - {x: 256, y: -63.5}
+        - {x: 256, y: 63.5}
+    - name: Laser_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 512
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 253, y: 52.5}
+        - {x: 254, y: 57.5}
+        - {x: 251, y: 60.5}
+        - {x: 245, y: 63.5}
+        - {x: -243, y: 63.5}
+        - {x: -245, y: 62.5}
+        - {x: -247, y: 60.5}
+        - {x: -256, y: 52.5}
+        - {x: -256, y: -43.5}
+        - {x: -255, y: -44.5}
+        - {x: -250, y: -47.5}
+        - {x: -244, y: -47.5}
+        - {x: -246, y: -55.5}
+        - {x: -244, y: -57.5}
+        - {x: -240, y: -57.5}
+        - {x: -236, y: -59.5}
+        - {x: -234, y: -63.5}
+        - {x: 250, y: -63.5}
+        - {x: 249, y: -57.5}
+        - {x: 256, y: -51.5}
+        - {x: 256, y: 52.5}
+    - name: Laser_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 512
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 255, y: 63.5}
+        - {x: -216, y: 63.5}
+        - {x: -219, y: 61.5}
+        - {x: -228, y: 57.5}
+        - {x: -238, y: 47.5}
+        - {x: -241, y: 38.5}
+        - {x: -248, y: 40.5}
+        - {x: -250, y: 35.5}
+        - {x: -256, y: 34.5}
+        - {x: -256, y: 11.5}
+        - {x: -253, y: 7.5}
+        - {x: -256, y: 5.5}
+        - {x: -256, y: -22.5}
+        - {x: -251, y: -30.5}
+        - {x: -251, y: -38.5}
+        - {x: -248, y: -49.5}
+        - {x: -246, y: -59.5}
+        - {x: -240, y: -62.5}
+        - {x: -233, y: -63.5}
+        - {x: 256, y: -63.5}
+        - {x: 256, y: 62.5}
+    - name: Laser_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 256, y: -51.5}
+        - {x: 256, y: 53.5}
+        - {x: 255, y: 53.5}
+        - {x: 248, y: 59.5}
+        - {x: 247, y: 63.5}
+        - {x: -224, y: 63.5}
+        - {x: -228, y: 61.5}
+        - {x: -231, y: 52.5}
+        - {x: -244, y: 41.5}
+        - {x: -251, y: 27.5}
+        - {x: -256, y: 22.5}
+        - {x: -256, y: -45.5}
+        - {x: -255, y: -47.5}
+        - {x: -246, y: -55.5}
+        - {x: -236, y: -53.5}
+        - {x: -239, y: -62.5}
+        - {x: -238, y: -63.5}
+        - {x: 245, y: -63.5}
+        - {x: 248, y: -61.5}
+        - {x: 254, y: -55.5}
+    - name: Laser_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 512
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 256, y: 50.5}
+        - {x: 250, y: 49.5}
+        - {x: 249, y: 56.5}
+        - {x: 246, y: 59.5}
+        - {x: 238, y: 58.5}
+        - {x: 232, y: 63.5}
+        - {x: -224, y: 63.5}
+        - {x: -225, y: 58.5}
+        - {x: -228, y: 59.5}
+        - {x: -234, y: 53.5}
+        - {x: -237, y: 46.5}
+        - {x: -240, y: 38.5}
+        - {x: -248, y: 40.5}
+        - {x: -250, y: 35.5}
+        - {x: -256, y: 34.5}
+        - {x: -256, y: -26.5}
+        - {x: -250, y: -33.5}
+        - {x: -249, y: -46.5}
+        - {x: -245, y: -48.5}
+        - {x: -246, y: -58.5}
+        - {x: -244, y: -61.5}
+        - {x: -237, y: -60.5}
+        - {x: -233, y: -63.5}
+        - {x: -228, y: -63.5}
+        - {x: -223, y: -62.5}
+        - {x: -223, y: -63.5}
+        - {x: 256, y: -63.5}
+    - name: Laser_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 512
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 256, y: -47.5}
+        - {x: 256, y: 48.5}
+        - {x: 255, y: 49.5}
+        - {x: 256, y: 59.5}
+        - {x: 256, y: 61.5}
+        - {x: 255, y: 63.5}
+        - {x: -218, y: 63.5}
+        - {x: -223, y: 57.5}
+        - {x: -232, y: 57.5}
+        - {x: -239, y: 51.5}
+        - {x: -247, y: 45.5}
+        - {x: -251, y: 31.5}
+        - {x: -256, y: 28.5}
+        - {x: -256, y: -60.5}
+        - {x: -255, y: -62.5}
+        - {x: -250, y: -62.5}
+        - {x: -246, y: -63.5}
+        - {x: 233, y: -63.5}
+        - {x: 235, y: -62.5}
+        - {x: 244, y: -55.5}
+        - {x: 248, y: -50.5}
+    - name: Laser_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 512
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 255, y: -47.5}
+        - {x: 256, y: -43.5}
+        - {x: 256, y: 60.5}
+        - {x: 252, y: 61.5}
+        - {x: 248, y: 63.5}
+        - {x: -225, y: 63.5}
+        - {x: -230, y: 60.5}
+        - {x: -233, y: 57.5}
+        - {x: -238, y: 51.5}
+        - {x: -248, y: 41.5}
+        - {x: -254, y: 41.5}
+        - {x: -256, y: 37.5}
+        - {x: -256, y: -47.5}
+        - {x: -253, y: -50.5}
+        - {x: -247, y: -53.5}
+        - {x: -241, y: -59.5}
+        - {x: -233, y: -63.5}
+        - {x: 235, y: -63.5}
+        - {x: 243, y: -55.5}
+        - {x: 249, y: -54.5}
+    - name: Laser_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 256, y: -50.5}
+        - {x: 256, y: 48.5}
+        - {x: 254, y: 48.5}
+        - {x: 255, y: 58.5}
+        - {x: 253, y: 60.5}
+        - {x: 248, y: 63.5}
+        - {x: -243, y: 63.5}
+        - {x: -244, y: 62.5}
+        - {x: -249, y: 56.5}
+        - {x: -251, y: 57.5}
+        - {x: -254, y: 52.5}
+        - {x: -252, y: 48.5}
+        - {x: -256, y: 44.5}
+        - {x: -256, y: -49.5}
+        - {x: -253, y: -51.5}
+        - {x: -255, y: -55.5}
+        - {x: -256, y: -60.5}
+        - {x: -253, y: -62.5}
+        - {x: -249, y: -61.5}
+        - {x: -244, y: -59.5}
+        - {x: -244, y: -63.5}
+        - {x: 249, y: -63.5}
+        - {x: 249, y: -59.5}
+        - {x: 250, y: -55.5}
+        - {x: 255, y: -51.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
